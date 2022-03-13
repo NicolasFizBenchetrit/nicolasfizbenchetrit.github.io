@@ -1,0 +1,9 @@
+#navbar{
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    background: rgba(255, 0, 76, 0.404);
+    font-family: sans-serif;
+    position:fixed;
+    top:0;
+    width:100%;
+}
